@@ -47,7 +47,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     const forms = document.querySelectorAll('form');
     const message = {
-        loading: 'icons/form/spinner.svg',
+        loading: 'spinner.svg',
         success: 'Спасибо! Скоро мы с вами свяжемся',
         failure: 'Что-то пошло не так...'
     };
